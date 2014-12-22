@@ -37,98 +37,100 @@ This keyboarded and encoded edition of the
 
 #####Body#####
 
-1. Maior.¶He that loueth god and hys neygboure kepeth all the commaundemētes of god.
+1. ❧: Dyuers frutful gatherynges of scripture and declarynge of fayth and workes Of the lawe.
 
-1. Minor.¶ He that loueth god / loueth his neyghboure.
+    _ Maior.¶He that loueth god and hys neygboure kepeth all the commaundemētes of god.
 
-1. Conclu. sion.¶He that loueth his neyghboure as hym selfe kepth all the commaundementes of god.
+    _ Minor.¶ He that loueth god / loueth his neyghboure.
 
-1. ¶He that loueth god kepeth all the commaundementes.Maior.
+    _ Conclu. sion.¶He that loueth his neyghboure as hym selfe kepth all the commaundementes of god.
 
-1. ¶He that hath the fayth loueth god.Minor.
+    _ ¶He that loueth god kepeth all the commaundementes.Maior.
 
-1. ¶He that hath the fayth kepeth al the commaundementes of god.Cōclusio
+    _ ¶He that hath the fayth loueth god.Minor.
 
-1. ¶He that kepyth one commaundement of god kepeth them all.
+    _ ¶He that hath the fayth kepeth al the commaundementes of god.Cōclusio
 
-1. ¶He that kepeth not all the commaundemētes of god kepeth not one of them
+    _ ¶He that kepyth one commaundement of god kepeth them all.
 
-1. ¶It is not in our power to kepe any of the commaundementes of god.
+    _ ¶He that kepeth not all the commaundemētes of god kepeth not one of them
 
-1. ¶The lawe was geuen to shewe vs our synne.
+    _ ¶It is not in our power to kepe any of the commaundementes of god.
 
-1. ¶The lawe biddeth vs do that thyng which is impossible for vs.
+    _ ¶The lawe was geuen to shewe vs our synne.
 
-1. ¶Of the gospell.
+    _ ¶The lawe biddeth vs do that thyng which is impossible for vs.
 
-1. ¶The nature of the lawe and the gospell.
+    _ ¶Of the gospell.
 
-1. ¶A dysputacion betwene the lawe and the gospell.
+    _ ¶The nature of the lawe and the gospell.
 
-1. ¶Of fayth.
+    _ ¶A dysputacion betwene the lawe and the gospell.
 
-1. He that beleueth god / beleueth hys worde.
+    _ ¶Of fayth.
 
-1. ¶He that beleueth not goddes worde / beleueth not god hym selfe.
+    _ He that beleueth god / beleueth hys worde.
 
-1. ¶Fayth is the gyfte of god.
+    _ ¶He that beleueth not goddes worde / beleueth not god hym selfe.
 
-1. ¶Fayth is not in our power,
+    _ ¶Fayth is the gyfte of god.
 
-1. ¶ without fayth it is impossible to please god.
+    _ ¶Fayth is not in our power,
 
-1. ¶All that is done in fayth pleaseth God.
+    _ ¶ without fayth it is impossible to please god.
 
-1. ¶He that hath the fayth wotteth well that he pleaseth god?
+    _ ¶All that is done in fayth pleaseth God.
 
-1. ¶Fayth is a surenes.
+    _ ¶He that hath the fayth wotteth well that he pleaseth god?
 
-1. ¶A man is iustyfyed by fayth.
+    _ ¶Fayth is a surenes.
 
-1. ¶Of the fayth of Christ.
+    _ ¶A man is iustyfyed by fayth.
 
-1. ¶ He that beleueth in Christ shall be saued.
+    _ ¶Of the fayth of Christ.
 
-1. ¶He that beleueth not in Christ shalbe comdempned.
+    _ ¶ He that beleueth in Christ shall be saued.
 
-1. ¶ They that beleue in Iesu Christ are the sonnes of god.
+    _ ¶He that beleueth not in Christ shalbe comdempned.
 
-1. ¶He that beleueth that Christ is the sonne of god is saued.
+    _ ¶ They that beleue in Iesu Christ are the sonnes of god.
 
-1. ¶ He that beleueth god beleueth the gospell.
+    _ ¶He that beleueth that Christ is the sonne of god is saued.
 
-1. ¶He that beleueth not the gospell beleueth not god.
+    _ ¶ He that beleueth god beleueth the gospell.
 
-1. ¶He that beleueth the gospell shall be saued.
+    _ ¶He that beleueth not the gospell beleueth not god.
 
-1. ¶A comparison betwen fayth and vnfaythfulnesse or incredulite.
+    _ ¶He that beleueth the gospell shall be saued.
 
-1. Of hope
+    _ ¶A comparison betwen fayth and vnfaythfulnesse or incredulite.
 
-1. ¶we shulde put our hope and trust in god alonly and in no nother thyng.
+    _ Of hope
 
-1. Of charyte.
+    _ ¶we shulde put our hope and trust in god alonly and in no nother thyng.
 
-1. ¶A comparyson betwene fayth / hope and charyte.
+    _ Of charyte.
 
-1. Of workes.
+    _ ¶A comparyson betwene fayth / hope and charyte.
 
-1. ¶workes make vs neygther good nor euell.
+    _ Of workes.
 
-1. ¶Euery man is eyther good or euell.
+    _ ¶workes make vs neygther good nor euell.
 
-1. ¶Euery mannes workes are eyther good or euell.
+    _ ¶Euery man is eyther good or euell.
 
-1. ¶A man is lykened to the tre and his workes to the frute of the tre.
+    _ ¶Euery mannes workes are eyther good or euell.
 
-1. ¶None of oure workes nether saue vs nor condempne vs.
+    _ ¶A man is lykened to the tre and his workes to the frute of the tre.
 
-1. ¶ who so euer beleueth or thynketh to be saued hys workes denyethe that Christ is hys sauyour / that Christ died for hym and all thynge that pertayneth to Christ.
+    _ ¶None of oure workes nether saue vs nor condempne vs.
 
-1. ¶ we shuld do no good workes for the entent to gette the inherytaunce of heuen or remyssion of syn.
+    _ ¶ who so euer beleueth or thynketh to be saued hys workes denyethe that Christ is hys sauyour / that Christ died for hym and all thynge that pertayneth to Christ.
+
+    _ ¶ we shuld do no good workes for the entent to gette the inherytaunce of heuen or remyssion of syn.
 
 #####Back#####
-Dyuers frutful gatherynges of scripture and declarynge of fayth and workes of the lawePatrick's Plac
+¶Imprented in Fletestrete by me Robert Redman.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
